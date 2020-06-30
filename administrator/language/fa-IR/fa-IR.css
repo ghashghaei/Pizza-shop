@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+body, td, th  {
+	font-family: donya-font, Tahoma;	
+}
+input, select {
+	font-family: donya-font, Tahoma;	
+}
+button {
+	font-family: donya-font, Tahoma;	
+}

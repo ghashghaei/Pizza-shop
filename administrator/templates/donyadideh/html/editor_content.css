@@ -1,0 +1,45 @@
+body {
+        background: #000;
+        font-family: donya-font, Tahoma;
+        color: #333;
+}
+
+h1 {
+        font-family: donya-font, Tahoma;
+        font-weight: bold;
+        color: #ff0000;
+}
+
+h2 {
+        font-family: donya-font, Tahoma;
+        font-weight: normal;
+        color: #333;
+}
+
+h3 {
+  font-weight: bold;
+  font-family: donya-font, Tahoma;
+  color: #135cae;
+}
+
+h4 {
+        font-weight: bold;
+        font-family: donya-font, Tahoma;
+        color: #333;
+}
+
+a:link, a:visited {
+        color: #1B57B1; text-decoration: none;
+        font-weight: normal;
+}
+
+a:hover {
+        color: #00c;        text-decoration: underline;
+        font-weight: normal;
+}
+
+div.caption       { padding: 0 10px 0 10px; }
+div.caption img   { border: 1px solid #CCC; }
+div.caption p     { font-size: .90em; color: #666; text-align: center; }
+
+div.teaser { background:#ccc; }

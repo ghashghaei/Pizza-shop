@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metafile version="3.9" client="administrator" >
+	<tag>fa-IR</tag>
+	<name>Persian</name>
+	<description>Persian language 3.9.16</description>
+	<version>3.9.16.1</version>
+	<creationDate>March 2020</creationDate>
+    <author>Hossein Donyadideh</author>
+    <authorEmail>donyadideh@outlook.com</authorEmail>
+    <authorUrl>http://donyadideh.com</authorUrl>
+	<copyright>Copyright (C) 2013 - 2020 Donyadideh Studio. All rights reserved.</copyright>
+	<copyright>Donyadideh Studio</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<description><![CDATA[<p>[ طراح و برنامه نویس | حسین دنیادیده ]</p>]]></description>
+	<metadata>
+		<name>Persian (Iran)</name>
+		<nativeName>Persian (Iran)</nativeName>
+		<tag>fa-IR</tag>
+		<rtl>1</rtl>
+        <locale>fa_IR.utf8, fa_IR.UTF-8, fa_IR, Persian_IR, Persian, far_fa, fa, iran, fa_iran</locale>
+        <firstDay>6</firstDay>
+		<weekEnd>0,6</weekEnd>
+		<calendar>jalali</calendar>
+	</metadata>
+	<params />
+</metafile>

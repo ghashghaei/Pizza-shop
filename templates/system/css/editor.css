@@ -1,0 +1,51 @@
+body {
+	background: #fff;
+	font-family: donya-font, Tahoma;
+	line-height: 30px;
+	font-size: 16px;
+	color: #333;
+}
+
+h1 {
+	font-family: donya-font, Tahoma;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+h2 {
+	font-family: donya-font, Tahoma;
+	font-size: 22px;
+	font-weight: bold;
+}
+
+h3 {
+  font-family: donya-font, Tahoma;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+h4 {
+	font-family: donya-font, Tahoma;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+a:link, a:visited {
+	color: #1B57B1; 
+	text-decoration: none;
+	font-weight: bold;
+	font-style: italic;
+}
+
+a:hover {
+	color: #00c;	
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+div.caption       { padding: 0 10px 0 10px; }
+div.caption img   { border: 1px solid #CCC; }
+div.caption p     { font-size: 16px; color: #666; text-align: center; }
+
+hr#system-readmore  { border: red dashed 1px; color: red; }
+hr.system-pagebreak { border: gray dashed 1px; color: gray; }

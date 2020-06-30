@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="package" version="3.9" method="upgrade">
+	<name>Persian Language Pack</name>
+	<packagename>fa-IR</packagename>
+	<version>3.9.16.1</version>
+	<creationDate>March 2020</creationDate>
+	<author>Hossein donyadideh</author>
+	<authorEmail>donyadideh@outlook.com</authorEmail>
+	<authorUrl>http://donyadideh.com</authorUrl>
+	<copyright>Copyright (C) 2013 - 2020 Donyadideh Studio. All rights reserved.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<url></url>
+	<packager>Donyadideh Studio</packager>
+	<packagerurl>www.donyadideh.com</packagerurl>
+	<description><![CDATA[<p>[ طراح و برنامه نویس | حسین دنیادیده ]</p>]]></description>
+	<blockChildUninstall>true</blockChildUninstall>
+<files>
+	<file type="language" client="site" id="fa-IR">site_fa-IR.zip</file>
+	<file type="language" client="administrator" id="fa-IR">admin_fa-IR.zip</file>
+</files>
+<updateservers>
+       <server type="collection" priority="1" name="Accredited Donya! Translations">http://donyadideh.com</server>
+</updateservers>
+</extension>

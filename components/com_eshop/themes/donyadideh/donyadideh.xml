@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<install version="1.0" type="eshoptheme">
+	<name>donyadideh</name>
+	<title>donyadideh</title>
+	<author>Hossein donyadideh</author>
+	<creationDate>April 2020</creationDate>
+	<copyright>Copyright 2013-2020 Donyadideh Studio</copyright>
+	<license>http://www.gnu.org/licenses/old-licenses/gpl-2.0.html GNU/GPL version 2</license>
+	<authorEmail>donyadideh@outlook.com</authorEmail>
+	<authorUrl>http://donyadideh.com</authorUrl>
+	<version>1.0</version>
+	<description>Donyadideh theme for Eshop</description>
+	<files>
+		<filename>index.html</filename>
+		<folder>css</folder>
+		<folder>images</folder>
+		<folder>views</folder>
+	</files>
+</install>

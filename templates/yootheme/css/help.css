@@ -1,0 +1,34 @@
+/*
+   __    ____  _            ____  __      __    ____       
+  /  \  /   / / \  / /   / /   / /  \  / /  \  /     /   /
+ /   / /   / /   \/ /___/ /___/ /   / / /   / /___  /___/
+/___/ /___/ /    /  ___/ /   / /___/ / /___/ /___  /   /
+
+*/
+
+
+/*===================================================================
+   Copyright (C) 2013 - 2019 Hossein Donyadideh All Rights Reserved.
+  ===================================================================*/
+
+@font-face {
+  font-family: 'donya-font';
+  font-style: normal;
+  font-weight: normal;
+  src: url('fonts/donya-font.woff2') format('woff2'),
+       url('fonts/donya-font.woff') format('woff'),
+	   url('fonts/donya-font.ttf') format('truetype'),
+	   url('fonts/donya-font.eot?#iefix') format('embedded-opentype');
+}
+@font-face {
+  font-family: 'nova';
+  font-style: normal;
+  font-weight: normal;
+  src: url('fonts/nova.woff2') format('woff2'),
+       url('fonts/nova.woff') format('woff'),
+	   url('fonts/nova.ttf') format('truetype'),
+	   url('fonts/nova.eot?#iefix') format('embedded-opentype');
+}
+p,h1,h2,h3,h4,h5,h6,ul,tr,td,input,a{
+  font-family: 'donya-font', nova, Tahoma;
+}
